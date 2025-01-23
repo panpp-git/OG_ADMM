@@ -1,4 +1,4 @@
-Code for "xxx" 
+Code for "Efficient off-grid frequency estimation via ADMM with residual shrinkage and learning enhancement" 
 
 In the folder OGFreq_Inference:
 - generate_dataset.py is used to generate a test set
